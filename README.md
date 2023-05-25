@@ -1,7 +1,7 @@
 
 <div align="center">
 
-###  ⭐&nbsp;&nbsp;&nbsp;WELCOME&nbsp;&nbsp;&nbsp;⭐
+###  ⭐&nbsp;&nbsp;&nbsp;Welcome to Jisu's GitHub!&nbsp;&nbsp;&nbsp;⭐
 <br>
 <br>  
   
